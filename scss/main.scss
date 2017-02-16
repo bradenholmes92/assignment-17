@@ -4,3 +4,18 @@ img {
    width: 100%;
    display: block;
 }
+
+#app-container{
+  font-size: 0;
+}
+
+
+.politician-container div{
+  width: 27%;
+  padding-left: 3px;
+  background-color: lightgreen;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 13px;
+  margin: 10px;
+}
